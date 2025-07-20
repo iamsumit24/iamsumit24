@@ -63,7 +63,7 @@
 
 <p align="center">
   📧 <strong>Email:</strong> <a href="mailto:sumittiwari.prof24@gmail.com">sumittiwari.prof24@gmail.com</a> <br>
-  🧑‍💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sumittiwaridevops/" target="_blank">linkedin.com/in/sumittiwari24</a> <br>
+  🧑‍💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sumittiwaridevops/" target="_blank">linkedin.com/in/sumittiwaridevops</a> <br>
   🐙 <strong>GitHub:</strong> <a href="https://github.com/iamsumit24" target="_blank">github.com/iamsumit24</a>
 </p>
 
