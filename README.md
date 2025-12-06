@@ -83,14 +83,6 @@ LinuxWorld Informatics Pvt Ltd | 2025
 
 ---
 
-## 👨‍🏫 Mentors & Inspirations
-
-- 👨‍💼 **Mr. Vimal Daga** — LinuxWorld  
-- 📺 **YouTube Mentors:** Abhishek Veeramalla, Train With Shubham  
-- 🙏 Supportive peers, mentors & colleagues at ADP
-
----
-
 ## 📢 Let’s Connect
 
 <p align="center">
