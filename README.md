@@ -8,8 +8,8 @@
 
 ## ✨ About Me
 
-👋 I'm **Sumit Tiwari**, currently working as a **Member Technical at ADP (Hyderabad)** in the  
-**COS (Comprehensive Outsourcing Services) – IT Support** team.
+👋 I'm **Sumit Tiwari**, currently working as a **Member Technical at ADP** in the  
+**COS (Comprehensive Outsourcing Services) – IT Operations** team.
 
 In my role, I work on:
 
@@ -43,8 +43,7 @@ Along with corporate support experience, I also have strong **DevOps & Cloud** e
 **ADP Pvt. Ltd., Hyderabad | Nov 2025 – Present**
 
 - Managed **40+ SRs weekly**, including reopen cases and access updates  
-- Worked on **Siebel CRM, SolveIT, USM**, and other ADP internal tools  
-- Performed troubleshooting using **KBISS Knowledge Base** and SOPs  
+- Worked on **Siebel CRM, SolveIT, UCM**, and other ADP internal tools   
 - Ensured accurate ticket documentation and SLA compliance  
 - Collaborated with US counterparts and internal teams for escalations  
 - Completed onboarding + tool KT sessions (CRM, SR ops, access flows)
