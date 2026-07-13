@@ -1,24 +1,20 @@
 <h1 align="center">🌐 Hey there! I'm Sumit Tiwari</h1>
 <p align="center">
-  👨‍💻 Member Technical @ ADP | COS IT Support <br>
-  🚀 Cloud & DevOps Enthusiast | AWS | Docker | Kubernetes | CI/CD
+  👨‍💻 Technical Operations Engineer @ ADP <br>
+  🚀 DevOps | Cloud | SRE | AI Infrastructure Enthusiast
 </p>
 
 ---
 
 ## ✨ About Me
 
-👋 I'm **Sumit Tiwari**, currently working as a **Member Technical at ADP** in the  
-**COS (Comprehensive Outsourcing Services) – IT Operations** team.
+👋 I'm **Sumit Tiwari**, currently working as a **Technical Operations Engineer at ADP**.
 
-In my role, I work on:
+My work involves operating and supporting production environments, collaborating across teams, troubleshooting operational issues, and ensuring reliable service delivery in fast-paced, SLA-driven environments.
 
-- 🎯 Handling client SRs via **Siebel CRM**, **SolveIT**, and internal ADP tools  
-- 🛠️ Performing user access management, account setups, and updates  
-- 🔍 Troubleshooting issues using **KBISS**, SOPs, and escalation workflows  
-- 📑 Ensuring SLA compliance and providing accurate case documentation  
+Alongside my professional experience, I continuously build hands-on projects around modern cloud and infrastructure technologies. My primary focus is on **DevOps, Site Reliability Engineering (SRE), Cloud Infrastructure, Automation, and AI-driven Operations (AI SRE)**.
 
-Along with corporate support experience, I also have strong **DevOps & Cloud** experience from my training and projects.
+I enjoy solving infrastructure challenges, automating repetitive workflows, and building scalable, reliable systems. My goal is to design, automate, and own modern cloud platforms.
 
 ---
 
@@ -39,25 +35,25 @@ Along with corporate support experience, I also have strong **DevOps & Cloud** e
 
 ## 💼 Professional Experience
 
-### 🧑‍💻 **Member Technical – COS IT Support**  
+### 🧑‍💻 **Technical Operations Engineer**  
 **ADP Pvt. Ltd., Hyderabad | Nov 2025 – Present**
 
-- Managed **40+ SRs weekly**, including reopen cases and access updates  
-- Worked on **Siebel CRM, SolveIT, UCM**, and other ADP internal tools   
-- Ensured accurate ticket documentation and SLA compliance  
-- Collaborated with US counterparts and internal teams for escalations  
-- Completed onboarding + tool KT sessions (CRM, SR ops, access flows)
+- Worked in production operations within SLA-driven environments
+- Investigated and resolved operational issues while collaborating across teams
+- Managed user access and production workflows using enterprise platforms
+- Contributed to service reliability through troubleshooting and operational excellence
+- Gained hands-on exposure to production systems, incident handling, and enterprise operations
 
 ---
 
 ### 🧑‍💻 **DevOps Trainee**  
 LinuxWorld Informatics Pvt Ltd | 2025
 
-- Containerized workloads using **Docker & Kubernetes (EKS)**  
-- Automated AWS infra using **Terraform**, reducing manual steps by 80%  
-- Deployed cloud-native projects with EC2, S3, IAM, VPC, ECR  
-- Built real-time monitoring apps using Python, Flask & Plotly  
-- Integrated CI/CD using Jenkins and Git-based workflows  
+- Containerized workloads using **Docker & Kubernetes (EKS)**
+- Automated AWS infrastructure using **Terraform**, reducing manual effort
+- Deployed cloud-native projects with EC2, S3, IAM, VPC, and ECR
+- Built real-time monitoring applications using Python, Flask & Plotly
+- Implemented CI/CD pipelines using Jenkins and Git workflows
 
 ---
 
@@ -75,10 +71,10 @@ LinuxWorld Informatics Pvt Ltd | 2025
 
 ## 🎯 Current Goals
 
-- Level up in **IT Support + Cloud Engineering**  
-- Build expertise in **AWS + DevOps** for future transition  
-- Contribute to open source, improve automation skills  
-- Become a strong hybrid engineer (Support + Cloud + DevOps)
+- Deepen expertise in **DevOps, Cloud Engineering & Site Reliability Engineering**
+- Build production-grade cloud infrastructure and automation projects
+- Explore **AI for Infrastructure, AI SRE, and Intelligent Operations**
+- Contribute to open source and continuously improve engineering skills
 
 ---
 
